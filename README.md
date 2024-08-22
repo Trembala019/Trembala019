@@ -1,3 +1,5 @@
-meu nome e yuri
-minha idade 30
-eu tenho 2.00 metro 
+# olá
+## Yuri G.
+##  minha idade e 17
+#minha cor e roxo
+![](https://gifdb.com/images/high/gta-guy-riding-a-dinosaur-lxaizzayhepf2vup.webp)
